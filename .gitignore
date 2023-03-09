@@ -2,6 +2,5 @@
 /target
 lu-raft/.idea
 *.iml
-/rocksDB-raft
 .idea
 target/
